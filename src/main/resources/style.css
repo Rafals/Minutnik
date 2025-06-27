@@ -1,0 +1,48 @@
+.scene {
+    -fx-background-color: BLACK;
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+.root {
+    -fx-background-color: #2b2b2b;
+}
+
+.label {
+    -fx-background-color: #2b2b2b;
+    -fx-text-fill: #f0f0f0;
+    -fx-font-size: 60px;
+    -fx-padding: 40px 0;
+}
+
+.top-bar {
+    -fx-background-color: #1f1f1f;
+    -fx-alignment: center-left;
+    -fx-border-color: #444444;
+    -fx-border-width: 0 0 1 0;
+    -fx-padding: 4px 1px;
+    -fx-pref-height: 28px;
+}
+
+.top-bar-label {
+    -fx-text-fill: white;
+    -fx-background-color: #1f1f1f;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-pref-height: 20px;
+    -fx-max-height: 20px;
+    -fx-padding: 0;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #444444;
+}
+
+
+
