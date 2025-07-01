@@ -7,7 +7,7 @@ Pozwala ustawić czas, uruchomić odliczanie, zatrzymać oraz zresetować zegar.
 
 ## 🖼️ Zrzut ekranu
 
-![Minutnik GUI](img/minutnik.png)
+![Minutnik GUI](/resources/minutnik.png)
 
 ---
 
